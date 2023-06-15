@@ -1,2 +1,2 @@
 # prepCourse
-Este es un repositorio de prueba
+Este proyecto es una prueba de como clonarlo con github a mi repositorio local
